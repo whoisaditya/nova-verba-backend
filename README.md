@@ -4,7 +4,7 @@
 
 This is the backend repository for Nova Verba, an innovative app designed to improve English language skills by recommending new words to users every single day. The app utilizes a Node.js backend with Express, MongoDB for the database, and Vercel for hosting. It also integrates with Firebase, enabling users to log in using their Google accounts.
 
-The primary purpose of this repository is to handle all backend functionalities related to user management, word recommendation, and user word tracking. It leverages a free dictionary API, [DictionaryAPI](https://api.dictionaryapi.dev/api/v2/entries/en/), to search for new words and stores their meanings in the MongoDB database.
+The primary purpose of this repository is to handle all backend functionalities related to user management, word recommendation, and user word tracking. It leverages a free dictionary API, [DictionaryAPI](https://dictionaryapi.dev/), to search for new words and stores their meanings in the MongoDB database.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ Nova Verba is currently deployed and can be accessed at: [https://nova-verba.ver
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Firebase](https://firebase.google.com/)
-- [DictionaryAPI](https://api.dictionaryapi.dev/api/v2/entries/en/)
+- [DictionaryAPI](https://dictionaryapi.dev/)
 - [Vercel](https://vercel.com/)
 
 ## Installation
