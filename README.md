@@ -79,7 +79,7 @@ To run the Nova Verba backend locally, follow these steps:
 
 - `GET /user/word/search`: Searches for words related to a logged-in user.
 
-For detailed information on request and response parameters for each endpoint, please refer to the code documentation.
+For detailed information on request and response parameters for each endpoint, please refer to the code [documentation](https://documenter.getpostman.com/view/16151723/UVsQs4SV).
 
 ## License
 
